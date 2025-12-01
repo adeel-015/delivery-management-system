@@ -227,15 +227,11 @@ You can register new users or use these pre-seeded accounts:
 
 ## 🌐 Live Link
 
-**[Add your deployed application URL here]**
-
-Example: `https://delivery-system.herokuapp.com`
+**[delivery-management-system.netlify.app](https://delivery-management-system.netlify.app/)**
 
 ## 🎥 Short Video Link
 
-**[Add your Google Drive video link here]**
-
-Example: `https://drive.google.com/file/d/YOUR_VIDEO_ID/view`
+**[Live Demo Video](https://drive.google.com/file/d/1n8wjMmkajYV---rvt7uQjtu2hpyhvDc2/view?usp=sharing)**
 
 ## 📁 Project Structure
 
