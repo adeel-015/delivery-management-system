@@ -1,7 +1,7 @@
 // Simple admin creation script.
 // Usage: from project root
 //  cd delivery-backend
-//  node scripts/create-admin.js --email=admin@example.com --password=securepass --name=Admin
+//  node scripts/create-admin.js --email=admin@example.com --name=Admin
 
 require("dotenv").config();
 const mongoose = require("mongoose");
